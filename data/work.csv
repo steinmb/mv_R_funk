@@ -1,0 +1,21 @@
+Title,ID,Country,Year,"Technologies referenced","Technologies referenced id","Technologies used","Technologies used id",Topic,"Topic id",Sentiment,"Sentiment id"
+"SEER: Simulative Emotional Expression Robot",1626,Japan,2018,"AI (General Purpose Artificial Intelligence)",152,"Emotion recognition",91,Playful,170,Exciting,97
+"SEER: Simulative Emotional Expression Robot",1626,Japan,2018,"AI (General Purpose Artificial Intelligence)",152,"Emotion recognition",91,Playful,170,Wondrous,325
+"SEER: Simulative Emotional Expression Robot",1626,Japan,2018,"AI (General Purpose Artificial Intelligence)",152,"Emotion recognition",91,Robots/androids,51,Exciting,97
+"SEER: Simulative Emotional Expression Robot",1626,Japan,2018,"AI (General Purpose Artificial Intelligence)",152,"Emotion recognition",91,Robots/androids,51,Wondrous,325
+"SEER: Simulative Emotional Expression Robot",1626,Japan,2018,"AI (General Purpose Artificial Intelligence)",152,"Facial recognition",7,Playful,170,Exciting,97
+"SEER: Simulative Emotional Expression Robot",1626,Japan,2018,"AI (General Purpose Artificial Intelligence)",152,"Facial recognition",7,Playful,170,Wondrous,325
+"SEER: Simulative Emotional Expression Robot",1626,Japan,2018,"AI (General Purpose Artificial Intelligence)",152,"Facial recognition",7,Robots/androids,51,Exciting,97
+"SEER: Simulative Emotional Expression Robot",1626,Japan,2018,"AI (General Purpose Artificial Intelligence)",152,"Facial recognition",7,Robots/androids,51,Wondrous,325
+"Captain America: The Winter soldier",1946,"United States",2016,"Body scans",90,,,AI,168,Empowering,318
+"Captain America: The Winter soldier",1946,"United States",2016,"Body scans",90,,,AI,168,Fun,212
+"Captain America: The Winter soldier",1946,"United States",2016,"Body scans",90,,,AI,168,Helpful,98
+"Captain America: The Winter soldier",1946,"United States",2016,"Body scans",90,,,AI,168,Hostile,99
+"Captain America: The Winter soldier",1946,"United States",2016,"Body scans",90,,,Grief,161,Empowering,318
+"Captain America: The Winter soldier",1946,"United States",2016,"Body scans",90,,,Grief,161,Fun,212
+"Captain America: The Winter soldier",1946,"United States",2016,"Body scans",90,,,Grief,161,Helpful,98
+"Captain America: The Winter soldier",1946,"United States",2016,"Body scans",90,,,Grief,161,Hostile,99
+"Captain America: The Winter soldier",1946,"United States",2016,"Body scans",90,,,Hacking,160,Empowering,318
+"Captain America: The Winter soldier",1946,"United States",2016,"Body scans",90,,,Hacking,160,Fun,212
+"Captain America: The Winter soldier",1946,"United States",2016,"Body scans",90,,,Hacking,160,Helpful,98
+"Captain America: The Winter soldier",1946,"United States",2016,"Body scans",90,,,Hacking,160,Hostile,99
