@@ -1,5 +1,7 @@
 # Title     : De-duplicate data exports.
-# library(tidyverse)
+library(tidyverse)
+library(reshape2)
+library(ggplot2)
 
 data_directory <- paste0(getwd(), '/data/')
 creative_work <- read.csv2(
@@ -11,10 +13,9 @@ creative_work <- read.csv2(
   encoding = "utf8",
 )
 
-dim(creative_work)
-str(creative_work)
-summary(creative_work)
-colnames(creative_work)
-head(creative_work, n = 20)
+plot <- ggplot(
+  creative_work,
+  aes(x = Sentiment, y = Topic)
+) +
+  geom_point(aes(colour = Country, shape = Title))
 
-duplicated(creative_work)
